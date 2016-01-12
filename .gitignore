@@ -1,7 +1,6 @@
-PLSQL.tokens
-PLSQLBaseListener.java
-PLSQLLexer.java
-PLSQLLexer.tokens
-PLSQLListener.java
-PLSQLParser.java
+.idea/
 target/
+*.iml
+.project
+.classpath
+.settings/
